@@ -21,10 +21,27 @@ const currentYear = new Date().getFullYear();
     class="border-border flex flex-col items-center justify-between border-t py-6 sm:flex-row-reverse sm:py-4"
   >
     <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
-      <span>{t.footer.copyright} &#169; {currentYear}</span>
-      <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
-      <span>{t.footer.allRightsReserved}</span>
+    
+    <div class="my-2 flex flex-col items-center sm:items-start">
+      <!-- Copyright Text -->
+      <div class="flex flex-col items-center whitespace-nowrap sm:flex-row">
+        <span>{t.footer.copyright} &#169; {currentYear}</span>
+        <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
+        <span>{t.footer.allRightsReserved}</span>
+      </div>
+
+      <!-- Phare Uptime Badge -->
+      <div class="mt-4 sm:mt-2 opacity-80 hover:opacity-100 transition-opacity">
+        <iframe 
+          src="https://status.wdpmlgratis.my.id/embed-badges/live-status?align=start&background-light=f5f5f5&text-light=000000&background-dark=171717&text-dark=ffffff" 
+          width="190" 
+          height="30" 
+          loading="lazy" 
+          frameborder="0" 
+          scrolling="no" 
+          style="color-scheme: light dark;">
+        </iframe>
+      </div>
     </div>
   </div>
 </footer>
