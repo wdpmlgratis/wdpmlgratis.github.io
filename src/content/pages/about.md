@@ -1,37 +1,29 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "Tentang WDP ML GRATIS - Website Giveaway Weekly Diamond Pass Mobile Legends."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Selamat datang di **WDP ML GRATIS**! 🚀
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+Sesuai dengan namanya, website ini dibuat untuk: **Membagikan Weekly Diamond Pass (WDP) Mobile Legends secara GRATIS** kepada para pemain setia MLBB. 
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+**Bagaimana program ini berjalan?**
+Perlu diketahui bahwa website ini didukung oleh iklan. Pendapatan dari iklan tersebut kami kumpulkan dan gunakan kembali untuk membiayai pembelian Weekly Diamond Pass yang kami giveaway-kan kepada kalian. Jadi, dengan mengunjungi website ini, kamu secara tidak langsung telah membantu mensponsori giveaway ini agar tetap berjalan.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+### 💎 Kenapa Weekly Diamond Pass?
+WDP adalah salah satu item paling menguntungkan di Mobile Legends. Dengan WDP, kamu bisa mendapatkan total 220 Diamond, Point Starlight, dan hadiah menarik lainnya dalam waktu 7 hari. Di sini, kamu berkesempatan mendapatkannya secara cuma-cuma!
 
-## Features
+### 📝 Bagaimana Cara Ikutannya?
+Caranya gampang:
+kamu cuma perlu mengisi formulir dan Kami akan memilih pemenang secara acak dan memproses Top-Up langsung ke akun kamu.
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+> **PENTING:** Kami **TIDAK PERNAH** meminta data pribadi seperti password!. Giveaway ini hanya membutuhkan **ID & Server** untuk proses Top-Up resmi. Hati-hati terhadap penipuan!
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+---
 
-and so much more.
+### Siap Mendapatkan WDP Gratis?
+Jangan sampai ketinggalan! Langsung saja menuju halaman pendaftaran melalui link di bawah ini:
 
-## Show your support
+👉 **[KLIK DI SINI UNTUK ISI FORM GIVEAWAY](https://ln.run/wdpmlgratis)**
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Terima kasih sudah berkunjung, dan semoga beruntung di land of dawn! 🎮
