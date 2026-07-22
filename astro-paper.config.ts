@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://wdpmlgratis.my.id/",
     title: "WDP ML GRATIS",
-    description: "WDP ML GRATIS | Ikuti Giveaway WDP ML gratis disini!",
+    description: "Ikuti Giveaway WDP ML gratis! Menangkan Weekly Diamond Pass Mobile Legends secara gratis. Daftar sekarang dan jadilah salah satu pemenang yang beruntung!",
     author: "WDP ML GRATIS",
     profile: "https://wdpmlgratis.my.id/",
     ogImage: "default-og.jpg",
