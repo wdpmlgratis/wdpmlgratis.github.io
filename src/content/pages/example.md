@@ -1,16 +1,17 @@
 ---
 author: Sat Naing
-pubDatetime: 2026-08-03T10:30:00Z
-modDatetime: 2026-08-03T11:00:00Z
+pubDatetime: 2026-08-03T10:30:00.000Z
+modDatetime: 2026-08-03T11:00:00.000Z
 title: Contoh Artikel AstroPaper dengan 12 Field Frontmatter Lengkap
 slug: contoh-artikel-astropaper-lengkap
 featured: false
-draft: false
+draft: true
 tags:
   - tutorial
   - astropaper
   - sitepins
-description: "Panduan praktis dan contoh pengisian untuk ke-12 field frontmatter bawaan AstroPaper yang terintegrasi dengan CMS Sitepins."
+description: "Panduan praktis dan contoh pengisian untuk ke-12 field frontmatter
+  bawaan AstroPaper yang terintegrasi dengan CMS Sitepins."
 ogImage: "/assets/images/og-example.png"
 canonicalURL: "https://situs-anda.com/posts/contoh-artikel-astropaper-lengkap"
 hideEditPost: false
