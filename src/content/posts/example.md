@@ -5,14 +5,14 @@ modDatetime: 2026-08-03T11:00:00.000Z
 title: Contoh Artikel AstroPaper dengan 12 Field Frontmatter Lengkap
 slug: contoh-artikel-astropaper-lengkap
 featured: true
-draft: false
+draft: true
 tags:
   - tutorial
   - astropaper
   - sitepins
 description: "Panduan praktis dan contoh pengisian untuk ke-12 field frontmatter
   bawaan AstroPaper yang terintegrasi dengan CMS Sitepins."
-ogImage: "/assets/images/og-example.png"
+ogImage: "/assets/ChatGPT Image 2 Agu 2026, 10.59.33.png"
 canonicalURL: "https://situs-anda.com/posts/contoh-artikel-astropaper-lengkap"
 hideEditPost: false
 timezone: "Asia/Jakarta"
