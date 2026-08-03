@@ -1,0 +1,114 @@
+{
+  "file": "src/content/pages/example.md",
+  "name": "pages",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "author",
+      "label": "Author",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "pubDatetime",
+      "label": "PubDatetime",
+      "type": "Date",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": "",
+      "alwaysUseCurrentDate": false
+    },
+    {
+      "name": "modDatetime",
+      "label": "ModDatetime",
+      "type": "Date",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": "",
+      "alwaysUseCurrentDate": false
+    },
+    {
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "slug",
+      "label": "Slug",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "featured",
+      "label": "Featured",
+      "type": "boolean",
+      "value": false,
+      "isIgnored": false,
+      "defaultValue": false
+    },
+    {
+      "name": "draft",
+      "label": "Draft",
+      "type": "boolean",
+      "value": false,
+      "isIgnored": false,
+      "defaultValue": false
+    },
+    {
+      "name": "tags",
+      "label": "Tags",
+      "type": "Array",
+      "value": [],
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "description",
+      "label": "Description",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "ogImage",
+      "label": "OgImage",
+      "type": "media",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "canonicalURL",
+      "label": "CanonicalURL",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "hideEditPost",
+      "label": "HideEditPost",
+      "type": "boolean",
+      "value": false,
+      "isIgnored": false,
+      "defaultValue": false
+    },
+    {
+      "name": "timezone",
+      "label": "Timezone",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    }
+  ]
+}
