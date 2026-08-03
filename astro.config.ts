@@ -18,6 +18,7 @@ import {
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import config from "./astro-paper.config";
+import gtm from "astro-gtm-lite"; // <-- 1. Impor plugin GTM di sini
 
 export default defineConfig({
   site: config.site.url,
@@ -27,6 +28,7 @@ export default defineConfig({
       filter: page =>
         config.features?.showArchives !== false || !page.endsWith("/archives/"),
     }),
+    gtm({ id: "GTM-M352FH38" }), // <-- 2. GTM dimasukkan di sini
   ],
   i18n: {
     locales: ["en"],
