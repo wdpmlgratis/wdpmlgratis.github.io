@@ -9,7 +9,7 @@ export default defineAstroPaperConfig({
     profile: "https://wdpmlgratis.my.id/",
     ogImage: "default-og.jpg",
     lang: "en",
-    timezone: "Asia/Bangkok",
+    timezone: "Asia/Jakarta",
     dir: "ltr",
   },
   posts: {
