@@ -12,7 +12,8 @@ description: "Cara mendapatkan Weekly Diamond Pass (WDP) MLBB gratis secara aman
 ogImage: ""
 canonicalURL: ""
 hideEditPost: false
-timezone: ""
+timezone: "Asia/Jakarta"
+modDatetime: 2026-08-16T01:16:00.000Z
 ---
 *Weekly Diamond Pass* (WDP) di *Mobile Legends: Bang Bang* (MLBB) merupakan salah satu fitur langganan yang sangat populer. Dengan harga yang terjangkau, pemain bisa mendapatkan total hingga 220 diamond secara bertahap selama seminggu, ditambah dengan berbagai benefit lain seperti *Starlight Point* dan *Weekly Diamond Pass Choice Bundle*.
 
