@@ -5,8 +5,24 @@
   "fmType": "yaml",
   "template": [
     {
-      "name": "author",
-      "label": "Author",
+      "name": "title",
+      "label": "Title",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "slug",
+      "label": "Slug",
+      "type": "string",
+      "value": "",
+      "isIgnored": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "description",
+      "label": "Description",
       "type": "string",
       "value": "",
       "isIgnored": false,
@@ -31,16 +47,8 @@
       "alwaysUseCurrentDate": false
     },
     {
-      "name": "title",
-      "label": "Title",
-      "type": "string",
-      "value": "",
-      "isIgnored": false,
-      "defaultValue": ""
-    },
-    {
-      "name": "slug",
-      "label": "Slug",
+      "name": "author",
+      "label": "Author",
       "type": "string",
       "value": "",
       "isIgnored": false,
@@ -67,14 +75,6 @@
       "label": "Tags",
       "type": "Array",
       "value": [],
-      "isIgnored": false,
-      "defaultValue": ""
-    },
-    {
-      "name": "description",
-      "label": "Description",
-      "type": "string",
-      "value": "",
       "isIgnored": false,
       "defaultValue": ""
     },
